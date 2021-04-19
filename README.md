@@ -9,3 +9,7 @@ getTextAnalysis?text=filmfare
 ```
 
 This helps in creating User Personas which are enriched with principal/major entities metadata, apart from entities and their scores and comprehensive knowledge graphs.
+
+# Classify short text into Wikipedia Categories and Wikipedia Entities.
+
+https://drive.google.com/file/d/1X55MR046Xze2p-XfnDiFBNZZXTmFNUCU/view?usp=sharing
